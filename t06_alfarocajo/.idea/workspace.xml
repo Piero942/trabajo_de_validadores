@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91ea2ef0-9721-4470-a340-6a97f6d5288b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lote1.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="179" column="45" selection-start-line="179" selection-start-column="45" selection-end-line="179" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ejercicio_c_s.py" />
+        <option value="$PROJECT_DIR$/ejercio8_c_s.py" />
+        <option value="$PROJECT_DIR$/ejercicio1_c_s.py" />
+        <option value="$PROJECT_DIR$/ejercicio3_c_s.py" />
+        <option value="$PROJECT_DIR$/ejercicio5_c_s.py" />
+        <option value="$PROJECT_DIR$/../t03alfaro/ejercicio15.py" />
+        <option value="$PROJECT_DIR$/ejercicio2_c_s.py" />
+        <option value="$PROJECT_DIR$/ejercicio1_c_d.py" />
+        <option value="$PROJECT_DIR$/ejercicio8_c_s.py" />
+        <option value="$PROJECT_DIR$/ejercicio3_c_d.py" />
+        <option value="$PROJECT_DIR$/ejercicio2_c_d.py" />
+        <option value="$PROJECT_DIR$/ejercicio3_c_m.py" />
+        <option value="$PROJECT_DIR$/ejercicio5_c_d.py" />
+        <option value="$PROJECT_DIR$/ejercicio5_c_m.py" />
+        <option value="$PROJECT_DIR$/ejercicio1_c_m.py" />
+        <option value="$PROJECT_DIR$/ejercicio7_c_m.py" />
+        <option value="$PROJECT_DIR$/ejercicio7_c_d.py" />
+        <option value="$PROJECT_DIR$/ejercicio8_c_d.py" />
+        <option value="$PROJECT_DIR$/ejercicio8_c_m.py" />
+        <option value="$PROJECT_DIR$/ejercicio9c_m.py" />
+        <option value="$PROJECT_DIR$/ejercicio4_c_d.py" />
+        <option value="$PROJECT_DIR$/ejercicio4_c_s.py" />
+        <option value="$PROJECT_DIR$/ejercicio9_c_s.py" />
+        <option value="$PROJECT_DIR$/ejercicio9_c_d.py" />
+        <option value="$PROJECT_DIR$/ejercicio9_c_m.py" />
+        <option value="$PROJECT_DIR$/ejercicio10_c_s.py" />
+        <option value="$PROJECT_DIR$/ejercicio10_c_d.py" />
+        <option value="$PROJECT_DIR$/ejercicio10_c_m.py" />
+        <option value="$PROJECT_DIR$/ejercicio6_c_d.py" />
+        <option value="$PROJECT_DIR$/ejercicio6_c_s.py" />
+        <option value="$PROJECT_DIR$/ejercicio6_c_m.py" />
+        <option value="$PROJECT_DIR$/ejercicio7_c_s.py" />
+        <option value="$PROJECT_DIR$/ejercicio2_c_m.py" />
+        <option value="$PROJECT_DIR$/ejercicio4_c_m.py" />
+        <option value="$PROJECT_DIR$/Alfaro.Crespo/ejercicio2_c_m.py" />
+        <option value="$PROJECT_DIR$/Alfaro.Crespo/ejercicio4_c_m.py" />
+        <option value="$PROJECT_DIR$/Alfaro.Crespo/ejercicio5_c_m.py" />
+        <option value="$PROJECT_DIR$/Alfaro.Crespo/ejercicio6_c_m.py" />
+        <option value="$PROJECT_DIR$/Alfaro.Crespo/ejercicio9_c_m.py" />
+        <option value="$PROJECT_DIR$/lote.bat" />
+        <option value="$PROJECT_DIR$/lote1.bat" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-39" />
+    <option name="width" value="1059" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="t06_ALFARO.CAJO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t06_ALFARO.CAJO" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Alfaro.Crespo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\t06_ALFARO.CAJO\Alfaro.Crespo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ejercicio1_c_m">
+    <configuration name="ejercicio1_c_m" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="t06_ALFARO.CAJO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\t06_ALFARO.CAJO\Alfaro.Crespo\ejercicio1_c_m.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ejercicio1_c_s" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="t06_ALFARO.CAJO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\t06_ALFARO.CAJO\Alfaro.Crespo\ejercicio1_c_s.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ejercicio7_c_s" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="t06_ALFARO.CAJO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicio7_c_s.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ejercicio1_c_m" />
+        <item itemvalue="Python.ejercicio7_c_s" />
+        <item itemvalue="Python.ejercicio1_c_s" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.252218" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.9080311" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32901555" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../t03alfaro/ejercicio13.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../t03alfaro/ejercicio14.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../t03alfaro/ejercicio15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="46" selection-start-column="46" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../t03alfaro/ejercicio18.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../t03alfaro/ejercicio16.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alfaro.Crespo/ejercicio1_c_s.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio7_c_m.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio8_c_d.py" />
+    <entry file="file://$USER_HOME$/Desktop/trabajo5/PIEROALFARO/ejercicio1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/trabajo5/PIEROALFARO/ejercicio2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/trabajo5/PIEROALFARO/ejercicio3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/trabajo5/PIEROALFARO/ejercicio4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/trabajo5/PIEROALFARO/ejercicio5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio4_c_s.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio9_c_s.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio9_c_d.py" />
+    <entry file="file://$USER_HOME$/Desktop/trabajo5/PIEROALFARO/ejercicio6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio3_c_m.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio3_c_s.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio5_c_m.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio6_c_m.py" />
+    <entry file="file://$PROJECT_DIR$/Alfaro.Crespo/ejercicio2_c_d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio2_c_s.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio3_c_d.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio4_c_d.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio5_c_d.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio7_c_d.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio8_c_m.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio10_c_d.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio10_c_m.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio9_c_m.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio7_c_s.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio6_c_s.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio6_c_d.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio5_c_s.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio2_c_m.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio10_c_s.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio8_c_s.py" />
+    <entry file="file://$PROJECT_DIR$/ejercicio4_c_m.py" />
+    <entry file="file://$PROJECT_DIR$/Alfaro.Crespo/ejercicio1_c_d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alfaro.Crespo/ejercicio1_c_m.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alfaro.Crespo/ejercicio2_c_m.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alfaro.Crespo/ejercicio4_c_m.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alfaro.Crespo/ejercicio5_c_m.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alfaro.Crespo/ejercicio6_c_m.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alfaro.Crespo/ejercicio7_c_m.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alfaro.Crespo/ejercicio8_c_m.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alfaro.Crespo/ejercicio9_c_m.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alfaro.Crespo/ejercicio10_c_m.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lote.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lote1.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="179" column="45" selection-start-line="179" selection-start-column="45" selection-end-line="179" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
